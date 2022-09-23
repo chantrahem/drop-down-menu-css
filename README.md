@@ -1,1 +1,1 @@
-Create drop down menu with css
+Download this code package, you will see the sample HTML drop-down menu with css.
